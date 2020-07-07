@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies":{"electron":"5.0.6"},
+  "devDependencies":{"electron":"9.1.0"},
   "author": {"name":"fjy","email":"2589660302@qq.com"},
   "license": "ISC",
   "build":{
